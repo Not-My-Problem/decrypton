@@ -1,0 +1,1 @@
+Remember to never give a key generated in the application to strangers. If you suspect that someone has stolen your key, you can delete it and the application will generate a new one
